@@ -1,4 +1,4 @@
-##. Contents
+## Table of Contents
  x. Foreword					  7
  1. Blackout					 13
  2. The First Clue				 29
