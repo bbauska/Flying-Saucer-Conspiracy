@@ -1,5 +1,5 @@
 ## Table of Contents
- x. Foreword                      7
+ x. <a href="./00.Forward.md">Foreword</a> pg. 7
  1. Blackout                     13
  2. The First Clue               29
  3. The Silence Group Strikes    38
