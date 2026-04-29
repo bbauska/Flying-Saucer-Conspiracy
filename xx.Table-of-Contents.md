@@ -1,5 +1,4 @@
-## Contents
-
+##. Contents
  x. Foreword					  7
  1. Blackout					 13
  2. The First Clue				 29
@@ -20,6 +19,5 @@
 17. Oberth and the G-Field		247
 18. Redell Explains a Riddle	263
 19. The Vanishing Planes		288
-
 XX. Appendix					301
 
