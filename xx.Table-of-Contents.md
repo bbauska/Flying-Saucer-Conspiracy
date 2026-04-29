@@ -1,15 +1,15 @@
 ## Contents
 
-Foreword						  7
-1. Blackout						 13
-2. The First Clue				 29
-3. The Silence Group Strikes	 38
-4. Unknown Worlds				 57
-5. Enigma on the Moon			 70
-6. The Hidden Orders			 82
-7. Cover-up at Quantico			 89
-8. Satellite Search				102
-9. Mystery on Mars				122
+ x. Foreword					  7
+ 1. Blackout					 13
+ 2. The First Clue				 29
+ 3. The Silence Group Strikes	 38
+ 4. Unknown Worlds				 57
+ 5. Enigma on the Moon			 70
+ 6. The Hidden Orders			 82
+ 7. Cover-up at Quantico		 89
+ 8. Satellite Search			102
+ 9. Mystery on Mars				122
 10. "Ground All Planes!"		138
 11. Breaks in the Blackout		149
 12. "Shadowed from Space"		161
@@ -20,5 +20,6 @@ Foreword						  7
 17. Oberth and the G-Field		247
 18. Redell Explains a Riddle	263
 19. The Vanishing Planes		288
-    Appendix					301
+
+XX. Appendix					301
 
