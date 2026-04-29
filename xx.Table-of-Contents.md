@@ -1,7 +1,7 @@
 ## Table of Contents
  x. <a href="./00.Forward.md">00. Foreword</a> pg. 7
  1. <a href="./01.Blackout.md">01. Blackout</a> pg. 13
- 2. <a href="./02.The-First-Clue.md">02. The First Clue</a>               29
+ 2. <a href="./02.The-First-Class.md">02. The First Class</a>               29
  3. <a href="./03.The-Silence-Group-Strikes.md">03. The Silence Group Strikes</a>    38
  4. <a href="./04.Unknown-Worlds.md">04. Unknown Worlds</a>               57
  5. <a href="./05.Enigma-on-the-Moon.md">05. Enigma on the Moon</a>           70
