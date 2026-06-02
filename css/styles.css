@@ -187,3 +187,15 @@ article {
 .poem p {
   font-size: 1.1rem;
 }
+
+/* promote first letter of 1st paragraph */
+p:first-of-type {
+  text-indent: 0;
+}
+p:first-of-type:first-letter {
+  float: left;
+  font: 700 3em/0.65 'Playfair Display', sans-serif;
+  padding: 0.15em 0.05em 0 0;
+  text-transform: uppercase;
+}
+
