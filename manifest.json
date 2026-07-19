@@ -1,7 +1,7 @@
 {
   "name": "Flying Saucer Conspiracy",
   "short_name": "Saucers", 
-  "start_url": "saucers.bauska.org",
+  "start_url": "./index.html",
   "display": "standalone",  
   "icons": [
   {
