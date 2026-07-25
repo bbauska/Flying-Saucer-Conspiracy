@@ -1,7 +1,7 @@
 {
   "name": "Flying Saucer Conspiracy",
   "short_name": "Saucers", 
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",  
   "icons": [
   {
