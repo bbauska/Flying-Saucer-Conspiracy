@@ -1,4 +1,4 @@
-/* /js/script.js of Flying-Saucer-Conspiracy for saucer.bauska.org */
+/* /js/script.js of Flying-Saucer-Conspiracy for saucers.bauska.org */
 /* hide these elements on page load */
 $('#main-menu, .menu-close').hide();
 
